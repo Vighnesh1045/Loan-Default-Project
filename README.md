@@ -10,7 +10,30 @@ This dashboard provides a comprehensive analysis of loan distribution, applicant
 
 Additionally, the dashboard tracks year-over-year (YOY) changes in loan amounts and defaults. This data allows stakeholders to monitor market trends and manage the total loan portfolio, which currently stands at a sum of 32.58 billion.
 
+## What is in this folder?
+- app.py : 
+    The web app you can run to interact with the model.
 
+- loan_default_pipeline.pkl : 
+    The trained AI model (Large File).
+
+- Loan_default_dataset.csv : 
+    The raw data used for training and dashboarding.
+
+
+- Reports & Dashboards.pdf : 
+    A full report of findings and visual analysis.
+
+
+- requirements.txt : 
+    The list of Python tools needed for execution.
+
+## How to use it
+- Install the tools : 
+    pip install -r requirements.txt
+
+- Run the app : 
+    streamlit run app.py
 
 ### Steps Followed
 
