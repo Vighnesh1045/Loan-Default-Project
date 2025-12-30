@@ -6,8 +6,7 @@ numpy==1.26.4
 scikit-learn==1.5.1
 scipy==1.13.1
 
-# Model Serialization
-pickle5==0.0.12
+
 
 # Streamlit Web App
 streamlit==1.38.0
