@@ -1,0 +1,22 @@
+# Core Python Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning & Modeling
+scikit-learn==1.5.1
+scipy==1.13.1
+
+# Model Serialization
+pickle5==0.0.12
+
+# Streamlit Web App
+streamlit==1.38.0
+
+# Power BI embedding and visualization
+streamlit-components==0.1.0
+
+# Optional performance helpers
+joblib==1.4.2
+
+# For compatibility with sklearn warnings and dependencies
+threadpoolctl==3.5.0
